@@ -17,5 +17,6 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
