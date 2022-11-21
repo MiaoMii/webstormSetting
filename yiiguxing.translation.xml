@@ -1,16 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="require() of ES Module E:\v-uibuilder\packages\v-uibuilder\.eslintrc.js from E:\v-uibuilder\node_modules\.pnpm\@eslint+eslintrc@0.4.3\node_modules\@eslint\eslintrc\lib\config-array-factory.js not supported." />
       <item value="stop Propagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667466513643" />
+    <option name="lastTrimTime" value="1668998333433" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
